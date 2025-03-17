@@ -1,4 +1,4 @@
-# About Me:
+# About Me
  **Aspiring Software Developer | Former Educator**  <br><br>
 I'm a dedicated problem-solver transitioning from teaching to tech. I have experience in bilingual education and a passion for software development, data analytics, and automation. Currently, I'm honing my skills in backend development and exploring the world of embedded systems with Raspberry Pi.  <br><br>
 
@@ -11,12 +11,13 @@ I'm a dedicated problem-solver transitioning from teaching to tech. I have exper
 - **Areas of Interest:** Data Analytics, Software Development, Automation  <br><br>
 
 
-## My Path to Tech  <br>I graduated **Summa Cum Laude** in Bilingual Education and taught for a year before diving into the tech world!  
+## My Path to Tech  <br>
+I graduated **Summa Cum Laude** in Bilingual Education and taught for a year before diving into the tech world!  
 
 ## Connect with Me  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/johana-armenta-38886b33a/)  <br>
 
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jmarmenta&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jmarmenta&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarmenta&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
